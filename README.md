@@ -1,4 +1,6 @@
 # OpenCV (packaged by [OpenPnP](http://openpnp.org))
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdavidbackstein%2Fopencv.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdavidbackstein%2Fopencv?ref=badge_shield)
+
 
 [OpenCV](http://opencv.org) Java bindings packaged with native libraries, seamlessly delivered as a turn-key Maven dependency.
 
@@ -131,3 +133,7 @@ consider [sponsoring me](https://github.com/sponsors/vonnieda).
 ## Builds
 
 Builds are automatically created and published to Maven Central by Github Actions triggered by new tags. Builds are also created for branches and pull requests, and the artifacts can be downloaded from the Actions tab. These are not automatically released to Maven Central.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdavidbackstein%2Fopencv.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdavidbackstein%2Fopencv?ref=badge_large)
